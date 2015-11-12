@@ -35,3 +35,5 @@ public class Dice
 	}
 
 }
+
+// Please provide a method for user to retreive the last dice-roll value.

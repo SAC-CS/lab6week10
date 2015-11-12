@@ -36,3 +36,5 @@ public class DiceDriver {
 }
 
 }
+
+// To prepare for test #2, please write up the design of the object as well as the main program
